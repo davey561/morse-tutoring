@@ -21,7 +21,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 1vmin);
+  font-size: calc(9px + 1vmin);
   color: white;
   padding: 3vh 25vw;
 }
@@ -33,15 +33,24 @@
 .link{
   color: white;
 }
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
 .title{
   font-weight: bold;
+  animation: spin 1000s linear infinite;
+
   /* font-size: 1.2em; */
 }
 
 .bio{
 /* font-size: 16pt; */
-line-height: 1.5;
+line-height: 1.2;
 }
+
 .App-link {
   color: #61dafb;
 }
