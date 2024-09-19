@@ -13,9 +13,9 @@ function App() {
         <div className="bio">
         Davey is very good at inspiring bored kids. 
         <br></br><br></br>
-        Before he raised $1.2m for his public benefit company, coded at Apple, studied artificial intelligence, or began tutoring, he was a bored kid, too. 
+        Before he raised $1.2m for his public benefit company, coded at Apple, or studied artificial intelligence, he was a bored kid, too. 
 <br></br><br></br>
-        Davey has the greatest impact on students who see no point in math, writing, literature, or physics. He helps each student find a personal angle, framing school subjects as tools for self expression.
+        Davey has the greatest impact on students who see no point in math, writing, literature, or physics. He helps students craft a personal approach to each subject.
 <br></br><br></br>
 Davey's current rate is $290 per hour session. <br></br>All sessions are in-person in NYC, at your home or a coffee shop.
 <br></br><br></br>

@@ -1,6 +1,8 @@
 .App {
   text-align: center;
   font-family: Optima;
+  background-color: #232427;
+
 }
 
 .App-logo {
@@ -24,6 +26,8 @@
   font-size: calc(9px + 1vmin);
   color: white;
   padding: 3vh 25vw;
+  animation: spin 200s linear infinite;
+
 }
 .eightball{
   font-size: 2em;
@@ -35,9 +39,8 @@
 }
 @keyframes spin {
   0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  100% { transform: rotate(10deg); }
 }
-
 
 .title{
   font-weight: bold;
