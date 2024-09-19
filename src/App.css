@@ -41,9 +41,13 @@
 
 .title{
   font-weight: bold;
-  animation: spin 1000s linear infinite;
+  /* animation: spin 1000s linear infinite; */
 
   /* font-size: 1.2em; */
+}
+.subtitle{
+  opacity: .3;
+  /* animation: spin 1000s linear infinite; */
 }
 
 .bio{
