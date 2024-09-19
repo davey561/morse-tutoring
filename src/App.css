@@ -26,7 +26,7 @@
   font-size: calc(9px + 1vmin);
   color: white;
   padding: 3vh 25vw;
-  animation: spin 200s linear infinite;
+  /* animation: spin 200s linear infinite; */
 
 }
 .eightball{
