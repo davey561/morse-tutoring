@@ -15,7 +15,7 @@ function App() {
         <br></br><br></br>
         Before he raised $1.2m for his public benefit company, coded at Apple, or studied artificial intelligence, he was a bored kid, too. 
 <br></br><br></br>
-        Davey has the greatest impact on students who see no point in math, writing, literature, or physics. He helps students craft a personal approach to each subject.
+        Davey has the greatest impact on students who see no point in math, writing, literature, or physics. He helps students find personal connections to each subject.
 <br></br><br></br>
 Davey's current rate is $290 per hour session. <br></br>All sessions are in-person in NYC, at your home or a coffee shop.
 <br></br><br></br>
