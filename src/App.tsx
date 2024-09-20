@@ -15,16 +15,17 @@ function App() {
         <br></br><br></br>
         Before he raised $1.2m for his public benefit company, coded at Apple, or studied artificial intelligence, he was a bored kid, too. 
 <br></br><br></br>
-        Davey has the greatest impact on students who see no point in math, writing, literature, or physics. He helps students find personal connections to each subject.
+        Davey has the greatest impact on students who see no point in math, writing, literature, or physics. 
+With Davey, students find personal connections to these subjects and do brilliant work.
 <br></br><br></br>
-Davey's current rate is $290 per hour session. <br></br>All sessions are in-person in NYC, at your home or a coffee shop.
+Davey's current rate is $290 per hour session. <br></br>Sessions are in-person in NYC, at your home or a coffee shop.
 <br></br><br></br>
 For a consult: <br></br>Text (646) 352-2244, or<br></br>
 Email <a href="mailto:davey@plexus.earth" className='link'>davey@plexus.earth</a>
 <br></br>
 <br></br>
 
-More from Davey:<br></br>
+For more from Davey:<br></br>
 <a href="https://drive.google.com/drive/folders/1ofJzYy7RnUjDgN83L10LPm9gNsTl5GFf?usp=sharing" className='link'>Lessons</a>&emsp;
 <a href="https://plexus.substack.com/daveys-thoughts" className='link'>Writing</a>&emsp;
 <a href="https://plexus.earth" className='link'>Plexus</a></div>
