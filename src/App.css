@@ -25,7 +25,7 @@
   justify-content: center;
   font-size: calc(9px + 1vmin);
   color: white;
-  padding: 3vh 25vw;
+  padding: 3vh 12vw;
   /* animation: spin 200s linear infinite; */
 
 }
@@ -44,6 +44,7 @@
 
 .title{
   font-weight: bold;
+  /* font-style: italic; */
   /* animation: spin 1000s linear infinite; */
 
   /* font-size: 1.2em; */
