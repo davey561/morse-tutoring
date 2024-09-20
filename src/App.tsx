@@ -36,7 +36,7 @@ For more from Davey:<br></br>
 <br></br>
 {/* <div className="subtitle">        -- --- .-. ... .<br></br>- ..- - -- .-. .. -. --.
 </div> */}
-<div className="subtitle">        -- .. ... -.-. .. . ..-. / -- .- -. .- --. . -..
+<div className="subtitle">        -- .. ... -.-. .... .. . ..-. / -- .- -. .- --. . -..
 </div>
 
 
