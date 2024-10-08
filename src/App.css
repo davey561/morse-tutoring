@@ -39,19 +39,20 @@
 }
 @keyframes spin {
   0% { transform: rotate(0deg); }
-  100% { transform: rotate(10deg); }
+  100% { transform: rotate(360deg); }
 }
 
 .title{
-  font-weight: bold;
+  font-weight: bold; 
   /* font-style: italic; */
   /* animation: spin 1000s linear infinite; */
 
   /* font-size: 1.2em; */
 }
 .subtitle{
+  z-index: 0;
   opacity: .3;
-  /* animation: spin 1000s linear infinite; */
+  animation: spin 1000s linear infinite;
 }
 
 .bio{
