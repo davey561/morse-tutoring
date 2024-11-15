@@ -1,7 +1,23 @@
+
+
 .App {
   text-align: center;
   font-family: Optima;
   background-color: #232427;
+  color:white ;
+  transition: color 1s linear;
+
+
+
+}
+.yellow{
+  color: rgb(255, 238, 0);
+
+}
+.yellow>*>*>.link{
+  color: rgb(255, 238, 0);
+  transition: color 1s linear;
+
 
 }
 
@@ -24,7 +40,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(9px + 1vmin);
-  color: white;
   padding: 3vh 12vw;
   /* animation: spin 200s linear infinite; */
 
@@ -45,14 +60,14 @@
 .title{
   font-weight: bold; 
   /* font-style: italic; */
-  /* animation: spin 1000s linear infinite; */
 
   /* font-size: 1.2em; */
 }
 .subtitle{
   z-index: 0;
   opacity: .3;
-  animation: spin 1000s linear infinite;
+  /* animation: spin 1000s linear infinite; */
+  cursor: pointer;
 }
 
 .bio{
