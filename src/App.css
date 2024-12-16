@@ -11,11 +11,12 @@
 
 }
 .yellow{
-  color: rgb(255, 238, 0);
+  color: rgb(255, 187, 0);
 
 }
 .yellow>*>*>.link{
-  color: rgb(255, 238, 0);
+    color: rgb(255, 187, 0);
+
   transition: color 1s linear;
 
 

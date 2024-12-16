@@ -25,14 +25,14 @@ function App() {
         <br></br>
         <div className="bio">
           {/* {formatBio(bioString)} */}
-        Davey is very good at inspiring bored kids.
+        Davey inspires bored & brilliant kids.
         <br></br><br></br>
-        Before raising $1m for his startup, coding at Apple, or <br></br>studying Symbolic Systems at Williams, he was a bored kid, too. 
+        Before raising $1.2m for his startup, coding at Apple, or <br></br>studying artificial intelligence at Williams, he was a bored kid, too. 
   <br></br><br></br>
         Davey has the greatest impact on students who see no point in writing, reading, or math. He helps them find personal connections to their courses so that they excel.
         <br></br> <br></br>
 
-Davey's rate is $290 per hour-session. <br></br>Sessions are in person in NYC, <br></br>at your home or favorite cafe.
+Davey's rate is $330 per hour-session. <br></br>Sessions are in person in NYC, <br></br>at your home or favorite cafe.
 <br></br><br></br>
 For a consult, email Davey: <br></br>
 <a href="mailto:davey@morsetutoring.com?subject=Morse%20Tutoring%20Inquiry" className='link'>davey@morsetutoring.com</a>
