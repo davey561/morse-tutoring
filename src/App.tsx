@@ -1,6 +1,7 @@
 import React, { Fragment, useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { isWhiteSpaceLike } from 'typescript';
 
 const bioString = 
 `Davey is very good at inspiring bored kids. 
@@ -22,9 +23,9 @@ function App() {
 <br></br>
 
 
-     <h1 style={{maxWidth: '500pt'}}>"You remind me of Robin Williams in <i>Dead Poets Society</i> but younger."
-        <br></br><div style={{fontWeight:'normal'}}>– 10th grade writing student</div>
-      </h1> 
+     <h2 style={{maxWidth: '500pt', borderRadius: '5pt', backgroundColor: 'rgb(250,250,250, .1)', padding: '1ex', fontFamily: 'garamond'}}>"You remind me of Robin Williams in <i>Dead Poets Society</i> but younger."
+        <br></br><div style={{fontWeight:'normal', fontSize: 'smaller', marginTop: '5pt'}}>&nbsp;– 10th grade writing student</div>
+      </h2> 
         <br></br>
         <div className="bio">
           {/* {formatBio(bioString)} */}
